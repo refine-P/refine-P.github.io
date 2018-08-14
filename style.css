@@ -1,0 +1,29 @@
+footer {
+    text-align: center;
+}
+
+.link-icon {
+    margin: 0 1rem 1rem;
+    color: gray;
+}
+
+.link-icon:hover {
+    color: black;
+}
+
+h1 {
+    margin-bottom: 2.5rem;
+}
+
+dt {
+    float: left;
+    width: 8.5rem;
+}
+
+ul, dt, dd {
+    font-size: 1.2rem;
+}
+
+dd a {
+    margin-right: 0.75em;
+}
